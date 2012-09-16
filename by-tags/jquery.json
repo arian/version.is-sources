@@ -1,8 +1,8 @@
 {
-  project: "jquery",
-  source:  "jquery/jquery",
-  meta: {
-    prettyname: "jQuery",
-    website: "http://jquery.com"
+  "project": "jquery",
+  "source":  "jquery/jquery",
+  "meta": {
+    "prettyname": "jQuery",
+    "website": "http://jquery.com"
   }
 }
