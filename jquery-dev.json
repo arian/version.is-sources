@@ -1,8 +1,9 @@
 {
   "project": "jquery",
   "handler": {
-    "handler": "bytags",
-    "source":  "jquery/jquery"
+    "handler": "byjsonfile",
+    "source":  "jquery/jquery",
+    "file": "package.json"
   },
   "meta": {
     "prettyname": "jQuery",
