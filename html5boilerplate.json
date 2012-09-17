@@ -1,0 +1,11 @@
+{
+  "project": "html5boilerplate",
+  "handler": {
+    "handler": "bytags",
+    "source":  "h5bp/html5-boilerplate"
+  },
+  "meta": {
+    "prettyname": "HTML5 Boilerplate",
+    "website": "http://html5boilerplate.com/"
+  }
+}

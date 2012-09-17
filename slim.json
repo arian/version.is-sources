@@ -1,0 +1,11 @@
+{
+  "project": "slim",
+  "handler": {
+    "handler": "bytags",
+    "source":  "codeguy/Slim"
+  },
+  "meta": {
+    "prettyname": "Slim",
+    "website": "http://www.slimframework.com/"
+  }
+}

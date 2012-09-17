@@ -1,0 +1,11 @@
+{
+  "project": "underscore",
+  "handler": {
+    "handler": "bytags",
+    "source":  "documentcloud/underscore"
+  },
+  "meta": {
+    "prettyname": "underscore.js",
+    "website": "http://underscorejs.org/"
+  }
+}

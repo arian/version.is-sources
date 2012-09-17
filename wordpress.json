@@ -1,0 +1,11 @@
+{
+  "project": "wordpress",
+  "handler": {
+    "handler": "bytags",
+    "source":  "Wordpress/Wordpress"
+  },
+  "meta": {
+    "prettyname": "Wordpress",
+    "website": "http://wordpress.org/"
+  }
+}
