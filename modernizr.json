@@ -1,0 +1,11 @@
+{
+  "project": "modernizr",
+  "handler": {
+    "handler": "bytags",
+    "source":  "Modernizr/Modernizr"
+  },
+  "meta": {
+    "prettyname": "Modernizr",
+    "website": "http://modernizr.com"
+  }
+}
