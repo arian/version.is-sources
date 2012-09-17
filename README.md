@@ -2,6 +2,8 @@
 
 This repo contains the source files, which version.is is using to generate project versions.
 
+Version.is repo is available at [gustavnikolaj/version.is](https://github.com/gustavnikolaj/version.is).
+
 ## File structure
 
 Each project has a .json file which contains data about how the versions are fetched.
