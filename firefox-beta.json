@@ -1,0 +1,11 @@
+{
+  "project": "firefox-beta",
+  "handler": {
+    "handler": "firefox",
+    "key": "beta"
+  },
+  "meta": {
+    "prettyname": "Firefox Beta",
+    "website": "http://mozilla.com/firefox/beta/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "project": "firefox",
+  "handler": {
+    "handler": "firefox",
+    "key": "release"
+  },
+  "meta": {
+    "prettyname": "Firefox",
+    "website": "http://mozilla.com/firefox/"
+  }
+}
