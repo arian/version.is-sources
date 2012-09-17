@@ -25,6 +25,8 @@ There is two standard ways to fetch data, specified by the handler object:
 
 GitHub tags are the best fit for most projects. The package.json/component.json files will be better for monitoring the latest development versions.
 
+## handler object
+
 The handler objects for jquery.json and jquery-dev.json looks like this:
 ```
 jquery.json:
@@ -47,7 +49,15 @@ jquery-dev.json:
 
 The handler notes which handler should be invoked. The source parameter is noting the GitHub user/organization and the repo name. The file parameter is noting the json file that should be parsed for the version.
 
+## meta object
+
+The meta object can contain different kinds of meta data. Currently we support a `prettyname` string, that contains the formatted name, i.e. "jQuery" for the jquery project, and a `website` string containing the URL to the website for the project.
+
+## Submitting your project
+
 If you want to add your project to the list of monitored projects, please submit a pull request. We will make sure that it is working before accepting it, and will assist you in the process if needed.
+
+Look at the existing projects for reference.
 
 # Custom handlers
 
