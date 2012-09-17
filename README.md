@@ -2,6 +2,8 @@
 
 This repo contains the source files, which version.is is using to generate project versions.
 
+## File structure
+
 Each project has a .json file which contains data about how the versions are fetched.
 
 The basic layout of a project file is as following:
@@ -25,7 +27,7 @@ There is two standard ways to fetch data, specified by the handler object:
 
 GitHub tags are the best fit for most projects. The package.json/component.json files will be better for monitoring the latest development versions.
 
-## handler object
+### handler object
 
 The handler objects for jquery.json and jquery-dev.json looks like this:
 ```
@@ -49,7 +51,7 @@ jquery-dev.json:
 
 The handler notes which handler should be invoked. The source parameter is noting the GitHub user/organization and the repo name. The file parameter is noting the json file that should be parsed for the version.
 
-## meta object
+### meta object
 
 The meta object can contain different kinds of meta data. Currently we support a `prettyname` string, that contains the formatted name, i.e. "jQuery" for the jquery project, and a `website` string containing the URL to the website for the project.
 
@@ -59,7 +61,7 @@ If you want to add your project to the list of monitored projects, please submit
 
 Look at the existing projects for reference.
 
-# Custom handlers
+## Custom handlers
 
 Some projects will have their own handlers. Examples being Google Chrome and Firefox browsers. Only selected projects will get this treatment. If you cannot make your project fit into the standard ways of version fetching get in touch with us.
 
