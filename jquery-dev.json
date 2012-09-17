@@ -1,12 +1,12 @@
 {
-  "project": "jquery",
+  "project": "jquery-dev",
   "handler": {
     "handler": "byjsonfile",
     "source":  "jquery/jquery",
     "file": "package.json"
   },
   "meta": {
-    "prettyname": "jQuery",
+    "prettyname": "jQuery Development",
     "website": "http://jquery.com"
   }
 }
