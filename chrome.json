@@ -1,0 +1,12 @@
+{
+  "project": "chrome",
+  "handler": {
+    "handler": "chrome",
+    "os": "mac",
+    "channel": "stable"
+  },
+  "meta": {
+    "prettyname": "Google Chrome",
+    "website": "http://www.google.com/chrome/"
+  }
+}
