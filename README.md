@@ -6,56 +6,13 @@ Version.is repo is available at [gustavnikolaj/version.is](https://github.com/gu
 
 ## File structure
 
-Each project has a .json file which contains data about how the versions are fetched.
-
-The basic layout of a project file is as following:
-```
-<projectname>.json:
--------------------
-
-{
-  "project": "<projectname>",
-  "handler": {}
-  "meta": {}
-}
-
-```
-
-The project name should be the same as the file name, apart from the json extension.
+Each project has a .yaml file which contains data about how the versions are fetched.
 
 There is two standard ways to fetch data, specified by the handler object:
  - by GitHub tags
  - by package.json / component.json files in a GitHub repo.
 
 GitHub tags are the best fit for most projects. The package.json/component.json files will be better for monitoring the latest development versions.
-
-### handler object
-
-The handler objects for jquery.json and jquery-dev.json looks like this:
-```
-jquery.json:
-------------
-
-"handler": {
-  handler: "bytags",
-  "source": "jquery/jquery"
-}
-
-jquery-dev.json:
-----------------
-
-"handler": {
-  "handler": "byjsonfile",
-  "source": "jquery/jquery",
-  "file": "package.json"
-}
-```
-
-The handler notes which handler should be invoked. The source parameter is noting the GitHub user/organization and the repo name. The file parameter is noting the json file that should be parsed for the version.
-
-### meta object
-
-The meta object can contain different kinds of meta data. Currently we support a `prettyname` string, that contains the formatted name, i.e. "jQuery" for the jquery project, and a `website` string containing the URL to the website for the project.
 
 ## Submitting your project
 
