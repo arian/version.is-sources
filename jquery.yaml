@@ -1,0 +1,9 @@
+jquery:
+- bytags, jquery/jquery
+- jQuery
+- http://jquery.com
+
+jquery-dev:
+- byjsonfile, jquery/jquery, package.json
+- jQuery Development
+- http://jquery.com
