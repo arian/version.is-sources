@@ -17,7 +17,7 @@ chrome-canary:
     channel: canary
 
 chrome-dev:
-  name: Google Chrome
+  name: Google Chrome Dev
   website: http://dev.chromium.org/getting-involved/dev-channel
   handler:
     type: chrome
