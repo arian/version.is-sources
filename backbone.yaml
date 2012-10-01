@@ -1,4 +1,6 @@
 backbone:
-- bytags, documentcloud/backbone
-- Backbone.js
-- http://backbonejs.org
+  name: Backbone.js
+  website: http://backbonejs.org
+  handler: 
+    type: bytags
+    repo: documentcloud/backbone

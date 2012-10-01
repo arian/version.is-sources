@@ -1,4 +1,6 @@
 slim:
-- bytags, codeguy/Slim
-- Slim
-- http://www.slimframework.com/
+  name: Slim
+  website: http://www.slimframework.com/
+  handler:
+    type: bytags
+    repo: codeguy/Slim

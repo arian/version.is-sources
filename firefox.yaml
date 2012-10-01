@@ -1,19 +1,31 @@
 firefox:
-- firefox, release
-- Firefox
-- http://mozilla.com/firefox/
+  name: Firefox
+  website: http://mozilla.com/firefox/
+  handler:
+    type: firefox
+    source: http://people.mozilla.com/~tmielczarek/branch_versions.json
+    branch: release
 
 firefox-aurora:
-- firefox, aurora
-- Firefox Aurora
-- http://mozilla.com/firefox/aurora/
+  name: Firefox Aurora
+  website: http://mozilla.com/firefox/aurora/
+  handler:
+    type: firefox
+    source: http://people.mozilla.com/~tmielczarek/branch_versions.json
+    branch: aurora
 
 firefox-beta:
-- firefox, beta
-- Firefox Beta
-- http://mozilla.com/firefox/beta/
+  name: Firefox Beta
+  website: http://mozilla.com/firefox/beta/
+  handler:
+    type: firefox
+    source: http://people.mozilla.com/~tmielczarek/branch_versions.json
+    branch: beta
 
 firefox-nightly:
-- firefox, nightly
-- Firefox Nightly
-- http://mozilla.com/firefox/aurora/
+  name: Firefox Nightly
+  website: http://mozilla.com/firefox/aurora/
+  handler:
+    type: firefox
+    source: http://people.mozilla.com/~tmielczarek/branch_versions.json
+    branch: nightly

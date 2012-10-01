@@ -1,14 +1,26 @@
 chrome:
-- chrome, mac, stable
-- Google Chrome
-- http://www.google.com/chrome/
+  name: Google Chrome
+  website: http://www.google.com/chrome/
+  handler:
+    type: chrome
+    source: http://omahaproxy.appspot.com/all.json
+    os: mac
+    channel: stable
 
 chrome-canary:
-- chrome, mac, canary
-- Google Chrome Canary
-- https://tools.google.com/dlpage/chromesxs
+  name: Google Chrome Canary
+  website: https://tools.google.com/dlpage/chromesxs
+  handler:
+    type: chrome
+    source: http://omahaproxy.appspot.com/all.json
+    os: mac
+    channel: canary
 
 chrome-dev:
-- chrome, linux, dev
-- Google Chrome Dev
-- http://dev.chromium.org/getting-involved/dev-channel
+  name: Google Chrome
+  website: http://dev.chromium.org/getting-involved/dev-channel
+  handler:
+    type: chrome
+    source: http://omahaproxy.appspot.com/all.json
+    os: linux
+    channel: dev

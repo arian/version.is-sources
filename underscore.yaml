@@ -1,4 +1,6 @@
 underscore:
-- bytags, documentcloud/underscore
-- underscore.js
-- http://underscorejs.org/
+  name: underscore.js
+  website: http://underscorejs.org/
+  handler:
+    type: bytags
+    repo: documentcloud/underscore

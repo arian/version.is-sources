@@ -1,4 +1,6 @@
 modernizr:
-- bytags, Modernizr/Modernizr
-- Modernizr
-- http://modernizr.com
+  name: Modernizr
+  website: http://modernizr.com
+  handler:
+    type: bytags
+    repo: Modernizr/Modernizr

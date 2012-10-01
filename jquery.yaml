@@ -1,9 +1,14 @@
 jquery:
-- bytags, jquery/jquery
-- jQuery
-- http://jquery.com
+  name: jQuery
+  website: http://jquery.com
+  handler:
+    type: bytags
+    repo: jquery/jquery
 
 jquery-dev:
-- byjsonfile, jquery/jquery, package.json
-- jQuery Development
-- http://jquery.com
+  name: jQuery Development
+  website: http://jquery.com
+  handler:
+    type: byjsonfile
+    repo: jquery/jquery
+    file: package.json

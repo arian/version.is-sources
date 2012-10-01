@@ -1,4 +1,6 @@
 wordpress:
-- bytags, Wordpress/Wordpress
-- Wordpress
-- http://wordpress.org/
+  name: Wordpress
+  website: http://wordpress.org/
+  handler:
+    type: bytags
+    repo: Wordpress/Wordpress
