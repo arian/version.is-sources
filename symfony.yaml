@@ -1,0 +1,7 @@
+symfony:
+  name: Symfony PHP Framework
+  website: http://symfony.com
+  handler:
+    type: bytags
+    repo: symfony/symfony
+

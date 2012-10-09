@@ -1,0 +1,6 @@
+normalize-css:
+  name: normalize.css
+  website: http://necolas.github.com/normalize.css/
+  handler:
+    type: bytags
+    repo: necolas/normalize.css

@@ -1,0 +1,14 @@
+jquery-ui:
+  name: jQuery UI
+  website: http://jqueryui.com
+  handler:
+    type: bytags
+    repo: jquery/jquery-ui
+
+jquery-ui-dev:
+  name: jQuery UI Development
+  website: http://jqueryui.com
+  handler:
+    type: byjsonfile
+    repo: jquery/jquery-ui
+    file: package.json
