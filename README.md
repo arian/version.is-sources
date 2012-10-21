@@ -2,7 +2,7 @@
 
 This repo contains the source files, which version.is is using to generate project versions.
 
-Version.is repo is available at [gustavnikolaj/version.is](https://github.com/gustavnikolaj/version.is).
+Version.is repo is available at [version.is/version.is](https://github.com/version.is/version.is).
 
 ## File Structure
 
@@ -20,7 +20,7 @@ If you want to add your project to the list of monitored projects, please submit
 
 The conventions for file names is, that they must only contain characters `a-z` and `-` dash. Letters should be converted to lowercase and punctuation and spaces should be replaced by dashes. The file extension should be `yaml`.
 
-The contents of the file should be valid yaml. Each project branch should have their own yaml object. The first object should be the base branch, and the name of that should correspond to the filename. Additional branches, should be named the same as the base-branch, with an addition of a branch name seperated by a dash. If the project was jQuery, it would have the filename `jquery.yaml` and two yaml objects in the file, `jquery` and `jquery-dev`. 
+The contents of the file should be valid yaml. Each project branch should have their own yaml object. The first object should be the base branch, and the name of that should correspond to the filename. Additional branches, should be named the same as the base-branch, with an addition of a branch name seperated by a dash. If the project was jQuery, it would have the filename `jquery.yaml` and two yaml objects in the file, `jquery` and `jquery-dev`.
 
 Each yaml object have some required properties; `name` and `website`, which should be pretty obvious.
 
@@ -61,6 +61,6 @@ Some projects may be of such great significance that we have added custom handle
 
 ## Suggestions
 
-If you have suggestions to the project, please refer to the project repo at [gustavnikolaj/version.is](https://github.com/gustavnikolaj/version.is).
+If you have suggestions to the project, please refer to the project repo at [version.is/version.is](https://github.com/version.is/version.is).
 
 If you feel that there is need for another basic handler type, please get in touch.
