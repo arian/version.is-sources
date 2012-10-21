@@ -1,0 +1,6 @@
+django:
+  name: Django
+  website: http://www.djangoproject.com/
+  handler:
+    type: bytags
+    repo: django/django
