@@ -1,0 +1,6 @@
+jsbin:
+  name: JS Bin
+  website: http://jsbin.com/
+  handler:
+    type: bytags
+    repo: remy/jsbin
