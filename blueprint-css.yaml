@@ -1,0 +1,6 @@
+blueprint-css:
+  name: Blueprint CSS Framework
+  website: http://www.blueprintcss.org/
+  handler:
+    type: bytags
+    repo: joshuaclayton/blueprint-css
