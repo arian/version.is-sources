@@ -1,0 +1,6 @@
+jquery-pjax:
+  name: jQuery pjax
+  website: http://pjax.heroku.com/
+  handler:
+    type: bytags
+    repo: defunkt/jquery-pjax
