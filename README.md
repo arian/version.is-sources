@@ -2,7 +2,7 @@
 
 This repo contains the source files, which version.is is using to generate project versions.
 
-Version.is repo is available at [version.is/version.is](https://github.com/version.is/version.is).
+Version.is repo is available at [version-is/version.is](https://github.com/version-is/version.is).
 
 ## File Structure
 
@@ -61,6 +61,6 @@ Some projects may be of such great significance that we have added custom handle
 
 ## Suggestions
 
-If you have suggestions to the project, please refer to the project repo at [version.is/version.is](https://github.com/version.is/version.is).
+If you have suggestions to the project, please refer to the project repo at [version-is/version.is](https://github.com/version-is/version.is).
 
 If you feel that there is need for another basic handler type, please get in touch.
