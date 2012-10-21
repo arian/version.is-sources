@@ -1,0 +1,6 @@
+tornado:
+  name: tornado
+  website: http://www.tornadoweb.org/
+  handler:
+    type: bytags
+    repo: facebook/tornado

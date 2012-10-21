@@ -1,0 +1,6 @@
+impress:
+  name: Impress.js
+  website: http://bartaz.github.com/impress.js
+  handler:
+    type: bytags
+    repo: bartaz/impress.js

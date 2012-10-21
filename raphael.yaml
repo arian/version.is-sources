@@ -1,0 +1,6 @@
+raphael:
+  name: Raphael.js
+  website: hhttp://raphaeljs.com/
+  handler:
+    type: bytags
+    repo: DmitryBaranovskiy/raphael

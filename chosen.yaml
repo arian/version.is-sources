@@ -1,0 +1,6 @@
+chosen:
+  name: Chosen
+  website: http://harvesthq.github.com/chosen/
+  handler:
+    type: bytags
+    repo: harvesthq/chosen

@@ -1,0 +1,6 @@
+three20:
+  name: three20
+  website: http://three20.info/
+  handler:
+    type: bytags
+    repo: facebook/three20

@@ -1,0 +1,6 @@
+d3:
+  name: Data-Driven Documents
+  website: http://d3js.org/
+  handler:
+    type: bytags
+    repo: mbostock/d3

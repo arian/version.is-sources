@@ -1,0 +1,6 @@
+brackets:
+  name: Adobe Brackets
+  website: http://brackets.io/
+  handler:
+    type: bytags
+    repo: adobe/brackets

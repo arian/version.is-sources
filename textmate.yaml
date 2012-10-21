@@ -1,0 +1,6 @@
+textmate:
+  name: Textmate
+  website: http://macromates.com/
+  handler:
+    type: bytags
+    repo: textmate/textmate

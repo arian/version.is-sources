@@ -1,0 +1,6 @@
+socket-io:
+  name: Socket.io
+  website: http://socket.io/
+  handler:
+    type: bytags
+    repo: LearnBoost/socket.io

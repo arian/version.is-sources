@@ -1,0 +1,6 @@
+pdfjs:
+  name: pdf.js
+  website: https://github.com/mozilla/pdf.js
+  handler:
+    type: bytags
+    repo: mozilla/pdf.js

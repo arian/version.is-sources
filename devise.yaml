@@ -1,0 +1,6 @@
+devise:
+  name: Devise
+  website: http://blog.plataformatec.com.br/tag/devise/
+  handler:
+    type: bytags
+    repo: plataformatec/devise

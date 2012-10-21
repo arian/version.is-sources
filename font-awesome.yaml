@@ -1,0 +1,6 @@
+font-awesome:
+  name: Font Awesome
+  website: http://fortawesome.github.com/Font-Awesome/
+  handler:
+    type: bytags
+    repo: FortAwesome/Font-Awesome

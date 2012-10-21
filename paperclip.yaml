@@ -1,0 +1,6 @@
+paperclip:
+  name: Paperclip
+  website: http://thoughtbot.com/community/
+  handler:
+    type: bytags
+    repo: thoughtbot/paperclip

@@ -1,0 +1,6 @@
+redis:
+  name: Redis
+  website: http://redis.io/
+  handler:
+    type: bytags
+    repo: antirez/redis

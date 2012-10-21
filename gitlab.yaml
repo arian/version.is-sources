@@ -1,0 +1,6 @@
+gitlab:
+  name: GitLab
+  website: http://gitlabhq.com/
+  handler:
+    type: bytags
+    repo: gitlabhq/gitlabhq

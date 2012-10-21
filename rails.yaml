@@ -1,0 +1,6 @@
+rails:
+  name: Ruby on Rails
+  website: http://rubyonrails.org/
+  handler:
+    type: bytags
+    repo: rails/rails
