@@ -1,0 +1,7 @@
+lessjs:
+  name: Less.js
+  website: http://lesscss.org/
+  handler:
+    type: byjsonfile
+    repo: cloudhead/less.js
+    file: package.json

@@ -1,0 +1,6 @@
+yepnope:
+  name: yepnope.js
+  website: https://github.com/SlexAxton/yepnope.js
+  handler:
+    type: bytags
+    repo: SlexAxton/yepnope.js

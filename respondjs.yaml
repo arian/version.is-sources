@@ -1,0 +1,6 @@
+respondjs:
+  name: Respond.js
+  website: https://github.com/scottjehl/Respond
+  handler:
+    type: bytags
+    repo: scottjehl/Respond
