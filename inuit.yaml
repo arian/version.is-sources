@@ -1,0 +1,6 @@
+inuit:
+  name: inuit.css
+  website: http://inuitcss.com/
+  handler:
+    type: bytags
+    repo: csswizardry/inuit.css
