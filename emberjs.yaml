@@ -1,0 +1,6 @@
+emberjs:
+  name: Ember.js
+  website: http://www.emberjs.com/
+  handler:
+    type: bytags
+    repo: emberjs/ember.js
