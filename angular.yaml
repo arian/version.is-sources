@@ -1,0 +1,6 @@
+angular:
+  name: Angular.js
+  website: http://angularjs.org/
+  handler:
+    type: bytags
+    repo: angular/angular.js
