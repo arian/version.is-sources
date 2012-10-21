@@ -1,0 +1,6 @@
+csslint:
+  name: CSS Lint
+  website: http://csslint.net/
+  handler:
+    type: bytags
+    repo: stubbornella/csslint
