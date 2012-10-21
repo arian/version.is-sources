@@ -1,7 +1,7 @@
 jquery-file-upload:
   name: jQuery File Upload Plugin
   website: http://blueimp.github.com/jQuery-File-Upload/
-handler:
-  type: byjsonfile
-  repo: blueimp/jQuery-File-Upload
-  file: package.json
+  handler:
+    type: byjsonfile
+    repo: blueimp/jQuery-File-Upload
+    file: package.json
