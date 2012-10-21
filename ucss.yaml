@@ -1,0 +1,6 @@
+ucss:
+  name: uCSS
+  website: https://github.com/operasoftware/ucss
+  handler:
+    type: bytags
+    repo: operasoftware/ucss
