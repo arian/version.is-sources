@@ -1,0 +1,6 @@
+jquery-mobile:
+  name: jQuery Mobile
+  website: http://jquerymobile.com/
+  handler:
+    type: bytags
+    repo: jquery/jquery-mobile
