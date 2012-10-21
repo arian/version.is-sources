@@ -1,0 +1,6 @@
+codeigniter:
+  name: Codeigniter
+  website: https://github.com/EllisLab/CodeIgniter
+  handler:
+    type: bytags
+    repo: EllisLab/CodeIgniter
