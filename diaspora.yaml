@@ -1,0 +1,6 @@
+diaspora:
+  name: Diaspora
+  website: http://diaspora.github.com/diaspora
+  handler:
+    type: bytags
+    repo: diaspora/diaspora
