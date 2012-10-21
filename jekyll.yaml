@@ -1,0 +1,6 @@
+jekyll:
+  name: Jekyll
+  website: http://jekyllrb.com/
+  handler:
+    type: bytags
+    repo: mojombo/jekyll
