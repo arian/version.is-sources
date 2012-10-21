@@ -1,0 +1,6 @@
+yeoman:
+  name: Yeoman
+  website: http://yeoman.io/
+  handler:
+    type: bytags
+    repo: yeoman/yeoman
