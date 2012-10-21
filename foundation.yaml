@@ -1,0 +1,6 @@
+foundation:
+  name: Foundation
+  website: http://foundation.zurb.com/
+  handler:
+    type: bytags
+    repo: zurb/foundation
