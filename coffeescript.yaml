@@ -1,0 +1,6 @@
+coffeescript:
+  name: CoffeeScript
+  website: http://coffeescript.org/
+  handler:
+    type: bytags
+    repo: jashkenas/coffee-script
