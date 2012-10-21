@@ -1,0 +1,6 @@
+three:
+  name: Three.js
+  website: http://threejs.org/
+  handler:
+    type: bytags
+    repo: mrdoob/three.js
