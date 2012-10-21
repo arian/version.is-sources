@@ -1,0 +1,6 @@
+meteor:
+  name: Meteor
+  website: http://www.meteor.com/
+  handler:
+    type: bytags
+    repo: meteor/meteor
