@@ -1,0 +1,6 @@
+mootools:
+  name: MooTools
+  website: http://mootools.net/
+  handler:
+    type: bytags
+    repo: mootools/mootools-core
